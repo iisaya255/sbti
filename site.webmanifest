@@ -1,7 +1,7 @@
 {
   "name": "SBTI 人格测试",
   "short_name": "SBTI",
-  "description": "30 道正式题加 2 道隐藏题的在线 SBTI 人格测试。",
+  "description": "戏仿版抽象人格测试，看看你的 SBTI 类型、匹配结果和人格设定。",
   "lang": "zh-CN",
   "start_url": "/",
   "scope": "/",

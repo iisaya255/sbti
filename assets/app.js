@@ -10,7 +10,7 @@ import {
 } from "./data.js";
 import { getTypeHref, getTypeImage } from "./type-media.js";
 
-const DEFAULT_TITLE = "SBTI 人格测试 | 免费在线测试你的抽象人格类型";
+const DEFAULT_TITLE = "SBTI 人格测试 | 戏仿版抽象人格测试";
 
 const state = {
   shuffledQuestions: [],
