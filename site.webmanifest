@@ -1,0 +1,19 @@
+{
+  "name": "SBTI 人格测试",
+  "short_name": "SBTI",
+  "description": "30 道正式题加 2 道隐藏题的在线 SBTI 人格测试。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f2e8",
+  "theme_color": "#134e44",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
